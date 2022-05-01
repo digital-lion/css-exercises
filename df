@@ -1,0 +1,237 @@
+[33mcommit 1a07399506313ff92dcd6d38aa576bb8f75e9b24[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Chase <chasehearn@gmail.com>
+Date:   Sat Apr 30 23:20:12 2022 -0700
+
+    Complete foundation 1 exercise
+
+[33mcommit d27b59b78b073cfea8691637ce2befd3334b5a73[m
+Merge: 38dc43b 0c62902
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Apr 16 10:01:36 2022 -0400
+
+    Merge pull request #163 from DragunovVelimirovic/patch-2
+    
+    03-grid-layout-3 Update solutions.css
+
+[33mcommit 38dc43bd04c8865fadd3ad14c3e78daff44bac9a[m
+Merge: c7cba9f 83ecb57
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Apr 16 08:31:54 2022 -0400
+
+    Merge pull request #166 from AngryGolfer/main
+    
+    Easy Fix - css-exercises/foundation/06 cascade fix/solution/style.css -Typo and line wrap
+
+[33mcommit c7cba9fbd9a13c5b67049bb26036cd18176e0a88[m
+Merge: 6ee2bef 9dbce31
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Apr 16 08:24:08 2022 -0400
+
+    Merge pull request #162 from jamhog/rename_folders
+    
+    margin-and-padding: Rename folders to match other exercises
+
+[33mcommit 83ecb5730ad7d8ddd00b4384ed843de7a5685ca1[m
+Author: AngryGolfer <102259851+AngryGolfer@users.noreply.github.com>
+Date:   Fri Apr 1 12:03:29 2022 +0100
+
+    Typo and line wrap
+    
+    Changed 12px to 14px to match the .css file px size and wrapped lengthy description
+
+[33mcommit 0c62902d0c35dbf6c32985538355535e121402a3[m
+Author: DragunovVelimirovic <59807104+DragunovVelimirovic@users.noreply.github.com>
+Date:   Tue Mar 29 10:54:04 2022 -0300
+
+    Pruning code by combining selectors
+    
+    Both selectors were doing the same thing and were right next to each other, figured it may be cleaner to consolidate the code by combining the selectors.
+
+[33mcommit 9dbce31f175cc064315980d09ad7a4d5db384fb0[m
+Author: James Hogan <jamiehogan93@gmail.com>
+Date:   Mon Mar 28 14:00:58 2022 +1100
+
+    Rename folders to match other lessons
+
+[33mcommit 6ee2bef7b12232de7e908552d79e1ebb938e5c59[m
+Merge: dc722ec 2cb657e
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sun Mar 27 10:07:59 2022 -0400
+
+    Merge pull request #160 from Micosaur/mico-flex-patch-1
+    
+    flex/06+07: Fix broken links
+
+[33mcommit 2cb657e22bbd5185a5f868e0776d9a47f914b297[m
+Merge: e4c395c dc722ec
+Author: Micosaur <70674855+Micosaur@users.noreply.github.com>
+Date:   Sun Mar 27 01:19:18 2022 -0700
+
+    Merge branch 'TheOdinProject:main' into mico-flex-patch-1
+
+[33mcommit dc722ec91cb6bc392b1390a8890c8a1ecb9eea8e[m
+Merge: 303d653 fa7b2e4
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Mar 26 07:53:59 2022 -0400
+
+    Merge pull request #161 from Mmackz/patch-1
+    
+    02-grid-layout-2: Update README.md
+
+[33mcommit 303d65391c792dde58b23743c9f22f8d16e05c3c[m
+Merge: 5f72a6f aa67a14
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Mar 26 07:48:04 2022 -0400
+
+    Merge pull request #159 from Micosaur/mico-patch-1
+    
+    05-descendant-combinator: Add full solution
+
+[33mcommit fa7b2e4ef611ff8dca7a0d561052032c5355ce92[m
+Author: Mmackz <62824345+Mmackz@users.noreply.github.com>
+Date:   Fri Mar 25 13:31:19 2022 -0700
+
+    Change intro in readme.md
+    
+    Remove the wording "It is easy" or "This is easy" from the description. This may be somewhat demotivating to someone who may be having a difficult time with these concepts.
+
+[33mcommit e4c395ca19f120ec1bf5c0c64f68d6dc194e4097[m
+Author: Micosaur <michaelxpham@gmail.com>
+Date:   Thu Mar 24 06:03:41 2022 -0700
+
+    Fix all broken links
+
+[33mcommit fb9971baf545e5aa7cd50a3284c9231416c75271[m
+Author: Micosaur <michaelxpham@gmail.com>
+Date:   Thu Mar 24 05:58:56 2022 -0700
+
+    Fix all broken links
+
+[33mcommit aa67a148f053067d6ea4f7ac37266a253cd2f182[m
+Author: Micosaur <michaelxpham@gmail.com>
+Date:   Thu Mar 24 05:34:17 2022 -0700
+
+    Use academic-like syntax
+
+[33mcommit 3dbbd3a266658c0946e66cb99666682cc7db84c3[m
+Author: Micosaur <michaelxpham@gmail.com>
+Date:   Wed Mar 23 22:21:58 2022 -0700
+
+    Add other possible solutions
+
+[33mcommit 5f72a6f298fe9fdce5aced1615a68df43f2ecdac[m
+Merge: cce37cd 25f6b3f
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Mon Mar 14 16:31:11 2022 -0400
+
+    Merge pull request #152 from scheals/patch-1
+    
+    02-class-id-selectors: Fix improper font-family syntax
+
+[33mcommit cce37cdd350dec970284fde1a7ca4ac15d75fd75[m
+Merge: 501cac6 73a0b5e
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Mon Mar 14 16:30:19 2022 -0400
+
+    Merge pull request #125 from ZebraMilk/main
+    
+    TheOdinProject/css-exercises/foundations: add indent to the <body> and <head> tags within <html> for readability
+
+[33mcommit 73a0b5ee4f6f9a09b6d4854456d215552cb88c7e[m
+Merge: 04bf4da 501cac6
+Author: Scoozy <83929266+ZebraMilk@users.noreply.github.com>
+Date:   Mon Mar 14 15:17:47 2022 -0500
+
+    Merge branch 'main' into main
+
+[33mcommit 25f6b3f40a805d38824ef5af92965cc5edeefec1[m
+Author: scheals <95084627+scheals@users.noreply.github.com>
+Date:   Mon Mar 14 20:37:27 2022 +0100
+
+    Fix improper font syntax
+
+[33mcommit 501cac67b1a44f133b893d315d167fb28042d9ff[m
+Merge: 8c0b867 b0eadd2
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Fri Mar 11 12:27:20 2022 -0500
+
+    Merge pull request #145 from harimm/gitignore
+    
+    gitignore: Added .gitignore to ignore MacOS autogenerated .DS_Store files
+
+[33mcommit b0eadd26feb31ccde678079cbf33f50ae52bc40c[m
+Author: Hari Mohan <harimm@users.noreply.github.com>
+Date:   Fri Mar 4 09:23:56 2022 +0530
+
+    Add gitignore to ignore MacOS autogenerated .DS_Store files
+
+[33mcommit 8c0b86792f574edcb988f92e0c69444fa42b6bad[m
+Merge: eb02f13 62d09b3
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Mon Feb 28 14:39:45 2022 -0500
+
+    Merge pull request #144 from satikaj/flex-remove-semicolon
+    
+    04-flex-information: Remove extra semicolon in solution.css
+
+[33mcommit 62d09b3adfa357258450ea511cec2627500b72ec[m
+Author: Satika Jayawardena <68363306+satikaj@users.noreply.github.com>
+Date:   Wed Feb 23 23:04:41 2022 +0800
+
+    Fix typo in 04-flex solution: extra semicolon
+
+[33mcommit eb02f13381954daefd6c18320923db0145af99b4[m
+Merge: 0b5ff34 99219cc
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Mon Feb 21 16:17:08 2022 -0500
+
+    Merge pull request #142 from jernestmyers/fix/edit-readme
+    
+    CSS Grid Exercise 03-grid-layout-3: Amend README
+
+[33mcommit 0b5ff34b7cf98d67149f5d73d7e688e17b0b9f0a[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sun Feb 20 13:11:43 2022 -0500
+
+    Update feature_request.md
+
+[33mcommit bf7840c74cbf27ad0628ceeec4eb02fb8906d206[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sun Feb 20 13:10:08 2022 -0500
+
+    Update bug_report.md
+
+[33mcommit 6c67d1948cc8dbb5a9953123f35fddcb9d2cd6ad[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sun Feb 20 13:04:57 2022 -0500
+
+    Update PULL_REQUEST_TEMPLATE.md
+
+[33mcommit 99219cc1ad6883aa2aab159e53e1dde4902bf79d[m
+Author: Jeremy Myers <inernestmusic@gmail.com>
+Date:   Sat Feb 19 20:12:13 2022 -0500
+
+    Remove unnecessary line from Self Check
+
+[33mcommit bdaadc6258b27b8e5cb16a400ed3e7627b8569f8[m
+Author: Jeremy Myers <inernestmusic@gmail.com>
+Date:   Fri Feb 18 14:44:17 2022 -0500
+
+    Amend Self Check
+
+[33mcommit 402f6df28d3688e6de680132fb5d8edb9745a51d[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Wed Feb 16 17:39:33 2022 -0500
+
+    Update README.md
+
+[33mcommit 2ffb0662dc4edfa048d23d7dd3c647ff55499a3f[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Wed Feb 16 17:00:09 2022 -0500
+
+    Update README.md
+
+[33mcommit 1021268c239a4f6ed7b85833242811a064cc347e[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Mon Feb 14 15:14:44 2022 -0500
+
